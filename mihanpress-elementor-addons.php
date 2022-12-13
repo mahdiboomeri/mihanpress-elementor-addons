@@ -4,7 +4,7 @@
  * Plugin URI: https://www.zhaket.com/web/mihanwp-wordpress-theme/
  * Description: افزودنی های المنتور برای قالب میهن پرس.
  * Author URI:  https://www.zhaket.com/store/web/thunder-wp/
- * Version:     1.6.1
+ * Version:     1.6.2
  * Author:      Thunder WP
  * Text Domain: mihanpress-elementor-addons
  */
@@ -37,7 +37,7 @@ final class MP_Elementor_Addons {
 	 * @since 1.0.0
 	 * @var string The plugin version.
 	 */
-	const VERSION = '1.6.1';
+	const VERSION = '1.6.2';
 
 	/**
 	 * Minimum Elementor Version
